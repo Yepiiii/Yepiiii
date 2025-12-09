@@ -48,8 +48,8 @@
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yepiiii&show_icons=true&locale=pt-br&theme=tokyonight" alt="Estatísticas do GitHub de Giovanny" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yepiiii&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens mais usadas por Giovanny" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yepiiii&show_icons=true&locale=pt-br&theme=tokyonight&v=1" alt="Estatísticas do GitHub de Giovanny" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yepiiii&layout=compact&locale=pt-br&theme=tokyonight&v=1" alt="Linguagens mais usadas por Giovanny" />
 </p>
 
 ## 🐍 Minha Cobrinha de Contribuições
