@@ -20,8 +20,8 @@
 ## 🙋 Sobre Mim
 
 - 🔭 Atualmente trabalho como **Analista de E-commerce**.
-- 🌱 Estudando **Engenharia de IA**.
-- 👯 Buscando colaborar em **projetos com Inteligência Artificial**.
+- 💻 Estudando **Engenharia de IA**.
+- 🤝 Buscando colaborar em **projetos com Inteligência Artificial**.
 - 💬 Me pergunte sobre **a minha transição de carreira**.
 - 📫 Como me encontrar: **giovannygomesbrandao@gmail.com**
 - 😄 Pronomes: **Ele/Dele**.
